@@ -11,7 +11,7 @@
 - [BotFather для управления ботами в Telegram](<https://telegram.me/botfather>)
 
 ## Скриншоты
-![Скриншот проекта](images/screenshot1.png)
+[Скриншот проекта]()
 
 ## Перейти к боту
 [Перейти к Telegram-боту](<https://t.me/название_бота>)
